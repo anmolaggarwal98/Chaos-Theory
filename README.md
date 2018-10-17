@@ -1,6 +1,6 @@
 # Chaos-Theory
 
-*Numerical Methods of solving Non - Stiff ODE*
+*Numerical Methods for solving Non - Stiff ODE*
 
 *Explore Newton's Method, Euler's Method for finding a root and solving ODE respectivily*
 
